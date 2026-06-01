@@ -111,7 +111,7 @@ pip install pandas numpy networkx matplotlib seaborn scipy scikit-learn
 
 La red se representa como grafo no dirigido G = (V, E):
 - **V:** 162 estaciones
-- **E:** 684 conexiones (adyacentes dentro de cada línea)
+- **E:** 183 conexiones (adyacentes dentro de cada línea)
 - **Pesos:** $w_{ij} = \frac{\bar{a}_i + \bar{a}_j}{2}$ (promedio de afluencia)
 
 ### Métricas de Red
