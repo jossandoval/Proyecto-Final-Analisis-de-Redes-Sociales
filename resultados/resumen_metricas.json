@@ -1,0 +1,32 @@
+{
+  "proyecto": "Analisis de Redes Sociales: Metro CDMX y COVID-19",
+  "fecha_generacion": "2026-06-01T00:32:19.682974",
+  "metricas_globales": {
+    "nodos_estaciones": 162,
+    "aristas_conexiones": 684,
+    "densidad": 0.0524,
+    "diametro": 4,
+    "longitud_promedio_camino": 2.2545,
+    "coeficiente_clustering_global": 0.5783,
+    "grado_promedio": 8.4444
+  },
+  "simulaciones_sir": {
+    "red_real_peak_pct": 47.84,
+    "erdos_renyi_peak_pct": 78.89,
+    "watts_strogatz_peak_pct": 74.32,
+    "barabasi_albert_peak_pct": 66.79
+  },
+  "machine_learning": {
+    "r2_score": -1.0641,
+    "mae": 59290.53,
+    "rmse": 67266.33,
+    "feature_importances": {
+      "Mean Betweenness": 0.1587,
+      "Mean Degree": 0.3687,
+      "Mean Clustering": 0.27,
+      "Total Weighted Degree": 0.2026
+    },
+    "n_alcaldias": 10,
+    "casos_covid_total": 720203
+  }
+}

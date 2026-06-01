@@ -1,0 +1,3393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="linea" attr.type="string" />
+  <key id="d2" for="edge" attr.name="weight" attr.type="float" />
+  <key id="d1" for="node" attr.name="lng" attr.type="double" />
+  <key id="d0" for="node" attr.name="lat" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="Acatitla">
+      <data key="d0">19.364737</data>
+      <data key="d1">-99.005892</data>
+    </node>
+    <node id="Aculco">
+      <data key="d0">19.374069</data>
+      <data key="d1">-99.108095</data>
+    </node>
+    <node id="Agrícola Oriental">
+      <data key="d0">19.404835</data>
+      <data key="d1">-99.069901</data>
+    </node>
+    <node id="Allende">
+      <data key="d0">19.435514</data>
+      <data key="d1">-99.137406</data>
+    </node>
+    <node id="Apatlaco">
+      <data key="d0">19.379292</data>
+      <data key="d1">-99.109597</data>
+    </node>
+    <node id="Aquiles Serdán">
+      <data key="d0">19.490423</data>
+      <data key="d1">-99.19487</data>
+    </node>
+    <node id="Aragón">
+      <data key="d0">19.451236</data>
+      <data key="d1">-99.095886</data>
+    </node>
+    <node id="Atlalilco">
+      <data key="d0">19.356134</data>
+      <data key="d1">-99.101315</data>
+    </node>
+    <node id="Auditorio">
+      <data key="d0">19.425498</data>
+      <data key="d1">-99.191995</data>
+    </node>
+    <node id="Autobuses del Norte">
+      <data key="d0">19.478973</data>
+      <data key="d1">-99.140668</data>
+    </node>
+    <node id="Azcapotzalco">
+      <data key="d0">19.490989</data>
+      <data key="d1">-99.186416</data>
+    </node>
+    <node id="Balbuena">
+      <data key="d0">19.423231</data>
+      <data key="d1">-99.102302</data>
+    </node>
+    <node id="Balderas">
+      <data key="d0">19.42744</data>
+      <data key="d1">-99.149036</data>
+    </node>
+    <node id="Barranca del Muerto">
+      <data key="d0">19.360648</data>
+      <data key="d1">-99.190149</data>
+    </node>
+    <node id="Bellas Artes">
+      <data key="d0">19.436243</data>
+      <data key="d1">-99.141955</data>
+    </node>
+    <node id="Bondojito">
+      <data key="d0">19.46461</data>
+      <data key="d1">-99.111958</data>
+    </node>
+    <node id="Bosque de Aragón">
+      <data key="d0">19.458115</data>
+      <data key="d1">-99.069192</data>
+    </node>
+    <node id="Boulevard Puerto Aéreo">
+      <data key="d0">19.41967</data>
+      <data key="d1">-99.09595</data>
+    </node>
+    <node id="Buenavista">
+      <data key="d0">19.446603</data>
+      <data key="d1">-99.153199</data>
+    </node>
+    <node id="Calle 11">
+      <data key="d0">19.3205</data>
+      <data key="d1">-99.0857</data>
+    </node>
+    <node id="Camarones">
+      <data key="d0">19.479135</data>
+      <data key="d1">-99.190063</data>
+    </node>
+    <node id="Canal del Norte">
+      <data key="d0">19.449112</data>
+      <data key="d1">-99.116507</data>
+    </node>
+    <node id="Canal de San Juan">
+      <data key="d0">19.398683</data>
+      <data key="d1">-99.059365</data>
+    </node>
+    <node id="Candelaria">
+      <data key="d0">19.428837</data>
+      <data key="d1">-99.119511</data>
+    </node>
+    <node id="Centro Médico">
+      <data key="d0">19.406637</data>
+      <data key="d1">-99.155753</data>
+    </node>
+    <node id="Cerro de la Estrella">
+      <data key="d0">19.356012</data>
+      <data key="d1">-99.085522</data>
+    </node>
+    <node id="Chabacano">
+      <data key="d0">19.408438</data>
+      <data key="d1">-99.135754</data>
+    </node>
+    <node id="Chapultepec">
+      <data key="d0">19.420783</data>
+      <data key="d1">-99.176288</data>
+    </node>
+    <node id="Chilpancingo">
+      <data key="d0">19.4059</data>
+      <data key="d1">-99.1686</data>
+    </node>
+    <node id="Ciudad Azteca">
+      <data key="d0">19.534595</data>
+      <data key="d1">-99.0275</data>
+    </node>
+    <node id="Ciudad Deportiva">
+      <data key="d0">19.408357</data>
+      <data key="d1">-99.091229</data>
+    </node>
+    <node id="Colegio Militar">
+      <data key="d0">19.449354</data>
+      <data key="d1">-99.172254</data>
+    </node>
+    <node id="Constitución de 1917">
+      <data key="d0">19.34593</data>
+      <data key="d1">-99.063892</data>
+    </node>
+    <node id="Constituyentes">
+      <data key="d0">19.411858</data>
+      <data key="d1">-99.191265</data>
+    </node>
+    <node id="Consulado">
+      <data key="d0">19.457893</data>
+      <data key="d1">-99.113932</data>
+    </node>
+    <node id="Copilco">
+      <data key="d0">19.335887</data>
+      <data key="d1">-99.176652</data>
+    </node>
+    <node id="Coyoacán">
+      <data key="d0">19.361417</data>
+      <data key="d1">-99.170709</data>
+    </node>
+    <node id="Coyuya">
+      <data key="d0">19.398521</data>
+      <data key="d1">-99.113545</data>
+    </node>
+    <node id="Cuatro Caminos">
+      <data key="d0">19.459592</data>
+      <data key="d1">-99.215899</data>
+    </node>
+    <node id="Cuauhtémoc">
+      <data key="d0">19.425862</data>
+      <data key="d1">-99.154701</data>
+    </node>
+    <node id="Cuitláhuac">
+      <data key="d0">19.457448</data>
+      <data key="d1">-99.182038</data>
+    </node>
+    <node id="Culhuacán">
+      <data key="d0">19.337</data>
+      <data key="d1">-99.109</data>
+    </node>
+    <node id="Deportivo 18 de Marzo">
+      <data key="d0">19.483747</data>
+      <data key="d1">-99.126549</data>
+    </node>
+    <node id="Deportivo Oceanía">
+      <data key="d0">19.451034</data>
+      <data key="d1">-99.07917</data>
+    </node>
+    <node id="División del Norte">
+      <data key="d0">19.380021</data>
+      <data key="d1">-99.158885</data>
+    </node>
+    <node id="Doctores">
+      <data key="d0">19.421612</data>
+      <data key="d1">-99.143372</data>
+    </node>
+    <node id="Ecatepec">
+      <data key="d0">19.515301</data>
+      <data key="d1">-99.035997</data>
+    </node>
+    <node id="Eduardo Molina">
+      <data key="d0">19.451378</data>
+      <data key="d1">-99.105434</data>
+    </node>
+    <node id="Eje central">
+      <data key="d0">19.3614</data>
+      <data key="d1">-99.1514</data>
+    </node>
+    <node id="El Rosario">
+      <data key="d0">19.504541</data>
+      <data key="d1">-99.20002</data>
+    </node>
+    <node id="Ermita">
+      <data key="d0">19.361883</data>
+      <data key="d1">-99.142942</data>
+    </node>
+    <node id="Escuadrón 201">
+      <data key="d0">19.36492</data>
+      <data key="d1">-99.109554</data>
+    </node>
+    <node id="Etiopía/Plaza de la Transparencia">
+      <data key="d0">19.395586</data>
+      <data key="d1">-99.156268</data>
+    </node>
+    <node id="Eugenia">
+      <data key="d0">19.385466</data>
+      <data key="d1">-99.157469</data>
+    </node>
+    <node id="Ferrería">
+      <data key="d0">19.490746</data>
+      <data key="d1">-99.173841</data>
+    </node>
+    <node id="Fray Servando">
+      <data key="d0">19.421633</data>
+      <data key="d1">-99.120541</data>
+    </node>
+    <node id="Garibaldi">
+      <data key="d0">19.444458</data>
+      <data key="d1">-99.139724</data>
+    </node>
+    <node id="General Anaya">
+      <data key="d0">19.353259</data>
+      <data key="d1">-99.145002</data>
+    </node>
+    <node id="Gómez Farías">
+      <data key="d0">19.416472</data>
+      <data key="d1">-99.09035</data>
+    </node>
+    <node id="Guelatao">
+      <data key="d0">19.385162</data>
+      <data key="d1">-99.03574</data>
+    </node>
+    <node id="Guerrero">
+      <data key="d0">19.445146</data>
+      <data key="d1">-99.145389</data>
+    </node>
+    <node id="Hangares">
+      <data key="d0">19.424142</data>
+      <data key="d1">-99.087496</data>
+    </node>
+    <node id="Hidalgo">
+      <data key="d0">19.437295</data>
+      <data key="d1">-99.147105</data>
+    </node>
+    <node id="Hospital 20 de Noviembre">
+      <data key="d0">19.372</data>
+      <data key="d1">-99.171</data>
+    </node>
+    <node id="Hospital General">
+      <data key="d0">19.413578</data>
+      <data key="d1">-99.153886</data>
+    </node>
+    <node id="Impulsora">
+      <data key="d0">19.485851</data>
+      <data key="d1">-99.048915</data>
+    </node>
+    <node id="Indios Verdes">
+      <data key="d0">19.495358</data>
+      <data key="d1">-99.119468</data>
+    </node>
+    <node id="Instituto del Petróleo">
+      <data key="d0">19.489573</data>
+      <data key="d1">-99.14526</data>
+    </node>
+    <node id="Insurgentes">
+      <data key="d0">19.423292</data>
+      <data key="d1">-99.163177</data>
+    </node>
+    <node id="Insurgentes Sur">
+      <data key="d0">19.3736</data>
+      <data key="d1">-99.1788</data>
+    </node>
+    <node id="Isabel la Católica">
+      <data key="d0">19.426732</data>
+      <data key="d1">-99.137685</data>
+    </node>
+    <node id="Iztacalco">
+      <data key="d0">19.388562</data>
+      <data key="d1">-99.112215</data>
+    </node>
+    <node id="Iztapalapa">
+      <data key="d0">19.357834</data>
+      <data key="d1">-99.093461</data>
+    </node>
+    <node id="Jamaica">
+      <data key="d0">19.409004</data>
+      <data key="d1">-99.122171</data>
+    </node>
+    <node id="Juanacatlán">
+      <data key="d0">19.41289</data>
+      <data key="d1">-99.182167</data>
+    </node>
+    <node id="Juárez">
+      <data key="d0">19.433167</data>
+      <data key="d1">-99.147792</data>
+    </node>
+    <node id="Lagunilla">
+      <data key="d0">19.443386</data>
+      <data key="d1">-99.131334</data>
+    </node>
+    <node id="La Paz">
+      <data key="d0">19.350526</data>
+      <data key="d1">-98.960745</data>
+    </node>
+    <node id="La Raza">
+      <data key="d0">19.470153</data>
+      <data key="d1">-99.136891</data>
+    </node>
+    <node id="La Viga">
+      <data key="d0">19.406495</data>
+      <data key="d1">-99.126248</data>
+    </node>
+    <node id="La Villa-Basílica">
+      <data key="d0">19.481522</data>
+      <data key="d1">-99.117923</data>
+    </node>
+    <node id="Lázaro Cárdenas">
+      <data key="d0">19.40696</data>
+      <data key="d1">-99.144874</data>
+    </node>
+    <node id="Lindavista">
+      <data key="d0">19.487712</data>
+      <data key="d1">-99.13466</data>
+    </node>
+    <node id="Los Reyes">
+      <data key="d0">19.358968</data>
+      <data key="d1">-98.976903</data>
+    </node>
+    <node id="Miguel Ángel de Quevedo">
+      <data key="d0">19.346395</data>
+      <data key="d1">-99.18103</data>
+    </node>
+    <node id="Martín Carrera">
+      <data key="d0">19.484921</data>
+      <data key="d1">-99.104404</data>
+    </node>
+    <node id="Merced">
+      <data key="d0">19.425558</data>
+      <data key="d1">-99.124639</data>
+    </node>
+    <node id="Mexicaltzingo">
+      <data key="d0">19.3577</data>
+      <data key="d1">-99.1218</data>
+    </node>
+    <node id="Misterios">
+      <data key="d0">19.463315</data>
+      <data key="d1">-99.130797</data>
+    </node>
+    <node id="Mixcoac">
+      <data key="d0">19.375891</data>
+      <data key="d1">-99.187531</data>
+    </node>
+    <node id="Mixiuhca">
+      <data key="d0">19.408478</data>
+      <data key="d1">-99.112902</data>
+    </node>
+    <node id="Moctezuma">
+      <data key="d0">19.427218</data>
+      <data key="d1">-99.110305</data>
+    </node>
+    <node id="Morelos">
+      <data key="d0">19.438974</data>
+      <data key="d1">-99.118266</data>
+    </node>
+    <node id="Múzquiz">
+      <data key="d0">19.501629</data>
+      <data key="d1">-99.042048</data>
+    </node>
+    <node id="Nativitas">
+      <data key="d0">19.379474</data>
+      <data key="d1">-99.140217</data>
+    </node>
+    <node id="Nezahualcóyotl">
+      <data key="d0">19.473066</data>
+      <data key="d1">-99.054537</data>
+    </node>
+    <node id="Niños Héroes">
+      <data key="d0">19.419508</data>
+      <data key="d1">-99.150581</data>
+    </node>
+    <node id="Nopalera">
+      <data key="d0">19.3</data>
+      <data key="d1">-99.046666666667</data>
+    </node>
+    <node id="Normal">
+      <data key="d0">19.4444</data>
+      <data key="d1">-99.1674</data>
+    </node>
+    <node id="Norte 45">
+      <data key="d0">19.488683</data>
+      <data key="d1">-99.162769</data>
+    </node>
+    <node id="Obrera">
+      <data key="d0">19.413558</data>
+      <data key="d1">-99.144187</data>
+    </node>
+    <node id="Observatorio">
+      <data key="d0">19.398237</data>
+      <data key="d1">-99.200363</data>
+    </node>
+    <node id="Oceanía">
+      <data key="d0">19.445672</data>
+      <data key="d1">-99.087238</data>
+    </node>
+    <node id="Olímpica">
+      <data key="d0">19.521328</data>
+      <data key="d1">-99.033422</data>
+    </node>
+    <node id="Olivos">
+      <data key="d0">19.304166666667</data>
+      <data key="d1">-99.059722222222</data>
+    </node>
+    <node id="Panteones">
+      <data key="d0">19.458763</data>
+      <data key="d1">-99.203153</data>
+    </node>
+    <node id="Pantitlán">
+      <data key="d0">19.415359</data>
+      <data key="d1">-99.072132</data>
+    </node>
+    <node id="Parque de los venados">
+      <data key="d0">19.3707</data>
+      <data key="d1">-99.1587</data>
+    </node>
+    <node id="Patriotismo">
+      <data key="d0">19.4062</data>
+      <data key="d1">-99.1789</data>
+    </node>
+    <node id="Peñón Viejo">
+      <data key="d0">19.37332</data>
+      <data key="d1">-99.017093</data>
+    </node>
+    <node id="Periférico Oriente">
+      <data key="d0">19.3177</data>
+      <data key="d1">-99.0746</data>
+    </node>
+    <node id="Pino Suárez">
+      <data key="d0">19.425336</data>
+      <data key="d1">-99.132943</data>
+    </node>
+    <node id="Plaza Aragón">
+      <data key="d0">19.528447</data>
+      <data key="d1">-99.030118</data>
+    </node>
+    <node id="Polanco">
+      <data key="d0">19.433511</data>
+      <data key="d1">-99.191029</data>
+    </node>
+    <node id="Politécnico">
+      <data key="d0">19.50082</data>
+      <data key="d1">-99.149294</data>
+    </node>
+    <node id="Popotla">
+      <data key="d0">19.452147</data>
+      <data key="d1">-99.1747</data>
+    </node>
+    <node id="Portales">
+      <data key="d0">19.3698</data>
+      <data key="d1">-99.1416</data>
+    </node>
+    <node id="Potrero">
+      <data key="d0">19.47691</data>
+      <data key="d1">-99.132171</data>
+    </node>
+    <node id="Puebla">
+      <data key="d0">19.407142</data>
+      <data key="d1">-99.082432</data>
+    </node>
+    <node id="Refinería">
+      <data key="d0">19.469951</data>
+      <data key="d1">-99.190578</data>
+    </node>
+    <node id="Revolución">
+      <data key="d0">19.439561</data>
+      <data key="d1">-99.155431</data>
+    </node>
+    <node id="Ricardo Flores Magón">
+      <data key="d0">19.436567</data>
+      <data key="d1">-99.103675</data>
+    </node>
+    <node id="Río de los Remedios">
+      <data key="d0">19.490908</data>
+      <data key="d1">-99.046597</data>
+    </node>
+    <node id="Romero Rubio">
+      <data key="d0">19.440735</data>
+      <data key="d1">-99.094362</data>
+    </node>
+    <node id="Salto del Agua">
+      <data key="d0">19.426813</data>
+      <data key="d1">-99.142213</data>
+    </node>
+    <node id="San Andrés Tomatlán">
+      <data key="d0">19.3283</data>
+      <data key="d1">-99.1049</data>
+    </node>
+    <node id="San Antonio">
+      <data key="d0">19.384757</data>
+      <data key="d1">-99.186308</data>
+    </node>
+    <node id="San Antonio Abad">
+      <data key="d0">19.418597</data>
+      <data key="d1">-99.134145</data>
+    </node>
+    <node id="San Cosme">
+      <data key="d0">19.441706</data>
+      <data key="d1">-99.161096</data>
+    </node>
+    <node id="San Joaquín">
+      <data key="d0">19.445793</data>
+      <data key="d1">-99.191823</data>
+    </node>
+    <node id="San Juan de Letrán">
+      <data key="d0">19.431305</data>
+      <data key="d1">-99.141569</data>
+    </node>
+    <node id="San Lázaro">
+      <data key="d0">19.430213</data>
+      <data key="d1">-99.114833</data>
+    </node>
+    <node id="San Pedro de los Pinos">
+      <data key="d0">19.391275</data>
+      <data key="d1">-99.186051</data>
+    </node>
+    <node id="Santa Anita">
+      <data key="d0">19.40273</data>
+      <data key="d1">-99.121699</data>
+    </node>
+    <node id="Santa Marta">
+      <data key="d0">19.36</data>
+      <data key="d1">-98.994863</data>
+    </node>
+    <node id="Sevilla">
+      <data key="d0">19.421916</data>
+      <data key="d1">-99.17058</data>
+    </node>
+    <node id="Tacuba">
+      <data key="d0">19.459349</data>
+      <data key="d1">-99.189205</data>
+    </node>
+    <node id="Tacubaya">
+      <data key="d0">19.403439</data>
+      <data key="d1">-99.187102</data>
+    </node>
+    <node id="Talismán">
+      <data key="d0">19.47428</data>
+      <data key="d1">-99.108009</data>
+    </node>
+    <node id="Tasqueña">
+      <data key="d0">19.344168</data>
+      <data key="d1">-99.142685</data>
+    </node>
+    <node id="Tepalcates">
+      <data key="d0">19.391335</data>
+      <data key="d1">-99.046383</data>
+    </node>
+    <node id="Tepito">
+      <data key="d0">19.442495</data>
+      <data key="d1">-99.12333</data>
+    </node>
+    <node id="Terminal Aérea">
+      <data key="d0">19.433734</data>
+      <data key="d1">-99.087667</data>
+    </node>
+    <node id="Tezonco">
+      <data key="d0">19.306111111111</data>
+      <data key="d1">-99.065</data>
+    </node>
+    <node id="Tezozómoc">
+      <data key="d0">19.495116</data>
+      <data key="d1">-99.196286</data>
+    </node>
+    <node id="Tláhuac">
+      <data key="d0">19.286256</data>
+      <data key="d1">-99.014114</data>
+    </node>
+    <node id="Tlaltenco">
+      <data key="d0">19.294166666667</data>
+      <data key="d1">-99.023888888889</data>
+    </node>
+    <node id="Tlatelolco">
+      <data key="d0">19.454979</data>
+      <data key="d1">-99.142814</data>
+    </node>
+    <node id="UAM-I">
+      <data key="d0">19.351234</data>
+      <data key="d1">-99.074707</data>
+    </node>
+    <node id="Universidad">
+      <data key="d0">19.324427</data>
+      <data key="d1">-99.17397</data>
+    </node>
+    <node id="Valle Gómez">
+      <data key="d0">19.458742</data>
+      <data key="d1">-99.119296</data>
+    </node>
+    <node id="Vallejo">
+      <data key="d0">19.490625</data>
+      <data key="d1">-99.15586</data>
+    </node>
+    <node id="Velódromo">
+      <data key="d0">19.408478</data>
+      <data key="d1">-99.103074</data>
+    </node>
+    <node id="Viaducto">
+      <data key="d0">19.400808</data>
+      <data key="d1">-99.136891</data>
+    </node>
+    <node id="Villa de Aragón">
+      <data key="d0">19.461656</data>
+      <data key="d1">-99.061704</data>
+    </node>
+    <node id="Villa de Cortés">
+      <data key="d0">19.38753</data>
+      <data key="d1">-99.138994</data>
+    </node>
+    <node id="Viveros/Derechos Humanos">
+      <data key="d0">19.353724</data>
+      <data key="d1">-99.176052</data>
+    </node>
+    <node id="Xola">
+      <data key="d0">19.3952</data>
+      <data key="d1">-99.1377</data>
+    </node>
+    <node id="Zapata">
+      <data key="d0">19.370952</data>
+      <data key="d1">-99.164937</data>
+    </node>
+    <node id="Zapotitlán">
+      <data key="d0">19.296666666667</data>
+      <data key="d1">-99.034444444444</data>
+    </node>
+    <node id="Zaragoza">
+      <data key="d0">19.412344</data>
+      <data key="d1">-99.08241</data>
+    </node>
+    <node id="Zócalo">
+      <data key="d0">19.433248</data>
+      <data key="d1">-99.1329</data>
+    </node>
+    <edge source="Acatitla" target="Santa Marta">
+      <data key="d2">15302.11612021858</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Acatitla" target="Guelatao">
+      <data key="d2">10520.370218579235</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Acatitla" target="Canal de San Juan">
+      <data key="d2">9106.098360655738</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Acatitla" target="Los Reyes">
+      <data key="d2">11648.483606557376</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Acatitla" target="Tepalcates">
+      <data key="d2">12024.781420765026</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Acatitla" target="La Paz">
+      <data key="d2">19392.670765027324</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Aculco" target="Doctores">
+      <data key="d2">6537.229508196721</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Iztapalapa">
+      <data key="d2">5842.476775956284</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Apatlaco">
+      <data key="d2">7461.379781420765</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Santa Anita">
+      <data key="d2">3843.4310109289618</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Atlalilco">
+      <data key="d2">6772.006147540984</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Obrera">
+      <data key="d2">6499.248633879781</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Coyuya">
+      <data key="d2">9418.556010928962</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Bellas Artes">
+      <data key="d2">9101.630464480873</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Iztacalco">
+      <data key="d2">8675.564207650274</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Cerro de la Estrella">
+      <data key="d2">5603.254098360656</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="UAM-I">
+      <data key="d2">9805.35519125683</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="La Viga">
+      <data key="d2">4455.390710382513</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Chabacano">
+      <data key="d2">7012.869763205828</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Aculco" target="Salto del Agua">
+      <data key="d2">7894.203551912568</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Allende" target="San Cosme">
+      <data key="d2">11424.734972677596</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Hidalgo">
+      <data key="d2">11627.795765027324</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Bellas Artes">
+      <data key="d2">12041.502049180328</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="San Antonio Abad">
+      <data key="d2">11778.368852459016</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Xola">
+      <data key="d2">11324.015027322404</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Viaducto">
+      <data key="d2">11345.338797814207</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Nativitas">
+      <data key="d2">11723.341530054644</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Colegio Militar">
+      <data key="d2">9259.927595628415</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Normal">
+      <data key="d2">14366.29781420765</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Chabacano">
+      <data key="d2">9952.741347905281</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Panteones">
+      <data key="d2">8638.122950819672</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Portales">
+      <data key="d2">12029.662568306012</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Ermita">
+      <data key="d2">9165.435109289618</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Tacuba">
+      <data key="d2">11901.691256830602</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Cuatro Caminos">
+      <data key="d2">36392.33606557377</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Allende" target="Popotla">
+      <data key="d2">7495.852459016393</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Apatlaco" target="Iztacalco">
+      <data key="d2">10956.11612021858</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Atlalilco">
+      <data key="d2">9052.55806010929</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Salto del Agua">
+      <data key="d2">10174.755464480873</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Chabacano">
+      <data key="d2">9293.421675774134</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Bellas Artes">
+      <data key="d2">11382.18237704918</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Iztapalapa">
+      <data key="d2">8123.02868852459</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Santa Anita">
+      <data key="d2">6123.982923497268</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Coyuya">
+      <data key="d2">11699.107923497268</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Doctores">
+      <data key="d2">8817.781420765026</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="La Viga">
+      <data key="d2">6735.942622950819</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="UAM-I">
+      <data key="d2">12085.907103825135</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Cerro de la Estrella">
+      <data key="d2">7883.806010928962</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Apatlaco" target="Obrera">
+      <data key="d2">8779.800546448087</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Bellas Artes">
+      <data key="d2">10692.8087431694</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="La Viga">
+      <data key="d2">6046.568989071038</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Iztapalapa">
+      <data key="d2">7433.655054644809</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="UAM-I">
+      <data key="d2">11396.533469945356</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Cerro de la Estrella">
+      <data key="d2">7194.432377049181</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Coyuya">
+      <data key="d2">11009.734289617487</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Obrera">
+      <data key="d2">8090.426912568306</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Chabacano">
+      <data key="d2">8604.048041894353</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Iztacalco">
+      <data key="d2">10266.742486338797</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Santa Anita">
+      <data key="d2">5434.609289617487</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Doctores">
+      <data key="d2">8128.407786885246</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Salto del Agua">
+      <data key="d2">9485.381830601094</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Atlalilco" target="Zapata">
+      <data key="d2">9165.435109289618</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Mexicaltzingo">
+      <data key="d2">9431.26980874317</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Ermita">
+      <data key="d2">7816.741803278689</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Calle 11">
+      <data key="d2">8771.954234972678</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Tezonco">
+      <data key="d2">11560.724726775956</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Hospital 20 de Noviembre">
+      <data key="d2">7228.625</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Olivos">
+      <data key="d2">9585.335382513662</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Nopalera">
+      <data key="d2">11587.089480874318</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Mixcoac">
+      <data key="d2">9498.952868852459</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Insurgentes Sur">
+      <data key="d2">12989.32718579235</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Atlalilco" target="Tlaltenco">
+      <data key="d2">5239.334016393443</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Auditorio" target="Constituyentes">
+      <data key="d2">8976.550546448087</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="Polanco">
+      <data key="d2">15852.741803278688</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="Tacuba">
+      <data key="d2">13783.672131147541</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="San Antonio">
+      <data key="d2">10919.803278688523</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="Barranca del Muerto">
+      <data key="d2">18667.064207650274</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="Mixcoac">
+      <data key="d2">12729.627049180328</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="Tacubaya">
+      <data key="d2">15895.87295081967</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="El Rosario">
+      <data key="d2">14543.563524590165</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="Camarones">
+      <data key="d2">11672.385245901638</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Auditorio" target="San Pedro de los Pinos">
+      <data key="d2">11121.793715846994</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Autobuses del Norte" target="Consulado">
+      <data key="d2">7597.5</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Autobuses del Norte" target="La Raza">
+      <data key="d2">12297.475409836065</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Autobuses del Norte" target="Misterios">
+      <data key="d2">8127.263661202186</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Autobuses del Norte" target="Eduardo Molina">
+      <data key="d2">7877.9275956284155</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Autobuses del Norte" target="Hangares">
+      <data key="d2">7179.258196721312</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Balbuena" target="Moctezuma">
+      <data key="d2">10244.165300546449</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Candelaria">
+      <data key="d2">9846.031420765026</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Merced">
+      <data key="d2">16948.81557377049</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Chapultepec">
+      <data key="d2">17334.198087431694</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Observatorio">
+      <data key="d2">21963.714480874318</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Tacubaya">
+      <data key="d2">12218.590163934427</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Insurgentes">
+      <data key="d2">18224.755464480873</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Sevilla">
+      <data key="d2">11661.103825136612</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Salto del Agua">
+      <data key="d2">9038.773224043716</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Zaragoza">
+      <data key="d2">17405.885245901638</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balbuena" target="Balderas">
+      <data key="d2">7609.191256830602</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Chapultepec">
+      <data key="d2">17473.42213114754</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Insurgentes">
+      <data key="d2">18363.97950819672</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Candelaria">
+      <data key="d2">9985.255464480873</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Salto del Agua">
+      <data key="d2">9177.997267759563</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Tacubaya">
+      <data key="d2">12357.814207650272</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Merced">
+      <data key="d2">17088.039617486338</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Sevilla">
+      <data key="d2">11800.327868852459</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Observatorio">
+      <data key="d2">22102.938524590165</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Moctezuma">
+      <data key="d2">10383.389344262296</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Zaragoza">
+      <data key="d2">17545.109289617485</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Balderas" target="Hospital General">
+      <data key="d2">9450.819672131147</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Deportivo 18 de Marzo">
+      <data key="d2">8654.680327868853</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Hidalgo">
+      <data key="d2">9971.717896174863</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="La Raza">
+      <data key="d2">10054.061475409835</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Potrero">
+      <data key="d2">8809.875683060109</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Tlatelolco">
+      <data key="d2">9910.351092896175</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Viveros/Derechos Humanos">
+      <data key="d2">10003.98087431694</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Eugenia">
+      <data key="d2">8751.166666666666</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Indios Verdes">
+      <data key="d2">39291.67213114754</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Guerrero">
+      <data key="d2">6530.693989071038</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Zapata">
+      <data key="d2">8858.050546448087</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Copilco">
+      <data key="d2">12484.292349726775</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Miguel Ángel de Quevedo">
+      <data key="d2">14125.721311475409</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Balderas" target="Universidad">
+      <data key="d2">20467.829234972676</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="Mixcoac">
+      <data key="d2">16572.158469945356</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="San Antonio">
+      <data key="d2">14762.334699453551</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="El Rosario">
+      <data key="d2">18386.09494535519</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="Tacubaya">
+      <data key="d2">19738.4043715847</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="Camarones">
+      <data key="d2">15514.916666666666</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="Tacuba">
+      <data key="d2">17626.203551912567</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="San Pedro de los Pinos">
+      <data key="d2">14964.325136612022</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="Constituyentes">
+      <data key="d2">12819.081967213115</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Barranca del Muerto" target="Polanco">
+      <data key="d2">19695.273224043718</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Bellas Artes" target="Colegio Militar">
+      <data key="d2">10240.858606557376</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="San Antonio Abad">
+      <data key="d2">12759.299863387978</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Hidalgo">
+      <data key="d2">12608.726775956286</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Nativitas">
+      <data key="d2">12704.272540983606</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Ermita">
+      <data key="d2">10146.36612021858</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Popotla">
+      <data key="d2">8476.783469945356</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Normal">
+      <data key="d2">15347.228825136612</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Chabacano">
+      <data key="d2">10933.672358834243</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="San Cosme">
+      <data key="d2">12405.665983606557</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Viaducto">
+      <data key="d2">12326.269808743169</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Cuatro Caminos">
+      <data key="d2">37373.267076502736</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Panteones">
+      <data key="d2">9619.053961748634</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Tacuba">
+      <data key="d2">12882.622267759563</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Xola">
+      <data key="d2">12304.946038251366</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="General Anaya">
+      <data key="d2">11507.925546448088</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Portales">
+      <data key="d2">13010.593579234974</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Bellas Artes" target="Doctores">
+      <data key="d2">10458.032103825137</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="UAM-I">
+      <data key="d2">13726.157786885246</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="Cerro de la Estrella">
+      <data key="d2">9524.05669398907</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="Coyuya">
+      <data key="d2">13339.358606557376</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="Santa Anita">
+      <data key="d2">7764.233606557377</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="Obrera">
+      <data key="d2">10420.051229508197</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="Salto del Agua">
+      <data key="d2">11815.006147540984</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="Iztapalapa">
+      <data key="d2">9763.2793715847</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="La Viga">
+      <data key="d2">8376.19330601093</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bellas Artes" target="Iztacalco">
+      <data key="d2">12596.366803278688</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Bondojito" target="Consulado">
+      <data key="d2">3102.281420765027</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Bondojito" target="Candelaria">
+      <data key="d2">7733.450819672131</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Bondojito" target="Morelos">
+      <data key="d2">3914.0252732240438</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Bondojito" target="Santa Anita">
+      <data key="d2">2875.4200819672133</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Bondojito" target="Jamaica">
+      <data key="d2">4499.718579234973</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Bondojito" target="Fray Servando">
+      <data key="d2">3748.9590163934427</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Bondojito" target="Canal del Norte">
+      <data key="d2">3984.03825136612</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Buenavista" target="Guerrero">
+      <data key="d2">18546.005464480873</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Buenavista" target="Lagunilla">
+      <data key="d2">22615.745901639344</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Buenavista" target="Ciudad Azteca">
+      <data key="d2">32697.362021857924</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Buenavista" target="Tepito">
+      <data key="d2">22366.524590163935</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Buenavista" target="Romero Rubio">
+      <data key="d2">18229.31557377049</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Buenavista" target="Ecatepec">
+      <data key="d2">23693.37295081967</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Buenavista" target="Impulsora">
+      <data key="d2">23207.265027322406</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Buenavista" target="Morelos">
+      <data key="d2">18181.141393442624</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Calle 11" target="Nopalera">
+      <data key="d2">11995.859289617485</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Olivos">
+      <data key="d2">9994.105191256831</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Ermita">
+      <data key="d2">8225.511612021859</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Tezonco">
+      <data key="d2">11969.494535519127</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Mixcoac">
+      <data key="d2">9907.72267759563</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Tlaltenco">
+      <data key="d2">5648.103825136612</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Zapata">
+      <data key="d2">9574.204918032787</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Hospital 20 de Noviembre">
+      <data key="d2">7637.394808743169</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Mexicaltzingo">
+      <data key="d2">9840.039617486338</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Calle 11" target="Insurgentes Sur">
+      <data key="d2">13398.09699453552</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Camarones" target="San Antonio">
+      <data key="d2">7767.655737704918</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Camarones" target="Tacuba">
+      <data key="d2">10631.524590163935</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Camarones" target="El Rosario">
+      <data key="d2">11391.415983606557</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Camarones" target="Mixcoac">
+      <data key="d2">9577.47950819672</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Camarones" target="Polanco">
+      <data key="d2">12700.594262295082</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Camarones" target="Tacubaya">
+      <data key="d2">12743.725409836065</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Camarones" target="San Pedro de los Pinos">
+      <data key="d2">7969.646174863388</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Camarones" target="Constituyentes">
+      <data key="d2">5824.403005464481</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Canal del Norte" target="Candelaria">
+      <data key="d2">8472.68306010929</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Canal del Norte" target="Consulado">
+      <data key="d2">3841.513661202186</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Canal del Norte" target="Fray Servando">
+      <data key="d2">4488.191256830602</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Canal del Norte" target="Santa Anita">
+      <data key="d2">3614.6523224043713</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Canal del Norte" target="Jamaica">
+      <data key="d2">5238.950819672131</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Canal del Norte" target="Morelos">
+      <data key="d2">4653.257513661202</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Canal de San Juan" target="Guelatao">
+      <data key="d2">9197.375683060109</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Canal de San Juan" target="La Paz">
+      <data key="d2">18069.676229508197</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Canal de San Juan" target="Los Reyes">
+      <data key="d2">10325.489071038251</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Canal de San Juan" target="Tepalcates">
+      <data key="d2">10701.786885245901</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Canal de San Juan" target="Santa Marta">
+      <data key="d2">13979.121584699453</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Candelaria" target="Zaragoza">
+      <data key="d2">19781.94945355191</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Merced">
+      <data key="d2">19324.879781420765</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Salto del Agua">
+      <data key="d2">11414.837431693988</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Moctezuma">
+      <data key="d2">12620.22950819672</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Insurgentes">
+      <data key="d2">20600.819672131147</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Sevilla">
+      <data key="d2">14037.168032786885</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Observatorio">
+      <data key="d2">24339.77868852459</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Tacubaya">
+      <data key="d2">14594.654371584698</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Chapultepec">
+      <data key="d2">19710.262295081968</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Candelaria" target="Fray Servando">
+      <data key="d2">8237.603825136612</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Candelaria" target="Jamaica">
+      <data key="d2">8988.363387978141</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Candelaria" target="Santa Anita">
+      <data key="d2">7364.064890710382</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Candelaria" target="Consulado">
+      <data key="d2">7590.926229508196</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Candelaria" target="Morelos">
+      <data key="d2">8402.670081967213</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Iztapalapa">
+      <data key="d2">6264.903005464481</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Iztacalco">
+      <data key="d2">9097.990437158469</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="UAM-I">
+      <data key="d2">10227.781420765026</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Salto del Agua">
+      <data key="d2">8316.629781420765</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Coyuya">
+      <data key="d2">9840.982240437159</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Doctores">
+      <data key="d2">6959.655737704918</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Chabacano">
+      <data key="d2">7435.2959927140255</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Santa Anita">
+      <data key="d2">4265.857240437158</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="La Viga">
+      <data key="d2">4877.81693989071</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="Obrera">
+      <data key="d2">6921.674863387978</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Viaducto">
+      <data key="d2">10237.509107468122</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="San Antonio Abad">
+      <data key="d2">10670.539162112931</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Xola">
+      <data key="d2">10216.18533697632</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Colegio Militar">
+      <data key="d2">8152.097905282331</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="San Cosme">
+      <data key="d2">10316.90528233151</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Nativitas">
+      <data key="d2">10615.51183970856</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Portales">
+      <data key="d2">10921.832877959927</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Ermita">
+      <data key="d2">8057.605418943534</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="General Anaya">
+      <data key="d2">9419.164845173042</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Normal">
+      <data key="d2">13258.468123861567</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Hidalgo">
+      <data key="d2">10519.966074681239</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Tacuba">
+      <data key="d2">10793.861566484517</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Panteones">
+      <data key="d2">7530.293260473588</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Cuatro Caminos">
+      <data key="d2">35284.50637522769</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="Popotla">
+      <data key="d2">6388.022768670309</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Chabacano" target="La Viga">
+      <data key="d2">6287.432604735883</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Iztapalapa">
+      <data key="d2">7674.518670309653</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Santa Anita">
+      <data key="d2">5675.472905282331</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Doctores">
+      <data key="d2">8369.27140255009</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Salto del Agua">
+      <data key="d2">9726.245446265937</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Obrera">
+      <data key="d2">8331.29052823315</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Iztacalco">
+      <data key="d2">10507.606102003643</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Coyuya">
+      <data key="d2">11250.597905282331</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="UAM-I">
+      <data key="d2">11637.397085610199</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Chabacano" target="Mixiuhca">
+      <data key="d2">9594.171675774134</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chabacano" target="Jamaica">
+      <data key="d2">7299.771402550091</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chabacano" target="Ciudad Deportiva">
+      <data key="d2">6080.137522768669</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chabacano" target="Puebla">
+      <data key="d2">14460.834244080146</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chabacano" target="Patriotismo">
+      <data key="d2">9549.606102003643</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chabacano" target="Chilpancingo">
+      <data key="d2">16570.294626593808</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chabacano" target="Tacubaya">
+      <data key="d2">12906.062386156647</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chapultepec" target="Tacubaya">
+      <data key="d2">22082.821038251364</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chapultepec" target="Observatorio">
+      <data key="d2">31827.94535519126</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chapultepec" target="Sevilla">
+      <data key="d2">21525.334699453553</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chapultepec" target="Insurgentes">
+      <data key="d2">28088.986338797815</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chapultepec" target="Merced">
+      <data key="d2">26813.046448087433</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chapultepec" target="Zaragoza">
+      <data key="d2">27270.11612021858</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chapultepec" target="Salto del Agua">
+      <data key="d2">18903.004098360656</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chapultepec" target="Moctezuma">
+      <data key="d2">20108.39617486339</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Chilpancingo" target="Jamaica">
+      <data key="d2">15025.1543715847</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chilpancingo" target="Patriotismo">
+      <data key="d2">17274.98907103825</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chilpancingo" target="Puebla">
+      <data key="d2">22186.217213114753</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chilpancingo" target="Tacubaya">
+      <data key="d2">20631.445355191256</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chilpancingo" target="Mixiuhca">
+      <data key="d2">17319.55464480874</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Chilpancingo" target="Ciudad Deportiva">
+      <data key="d2">13805.520491803278</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Ciudad Azteca" target="Ecatepec">
+      <data key="d2">24611.696721311477</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ciudad Azteca" target="Morelos">
+      <data key="d2">19099.465163934427</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ciudad Azteca" target="Guerrero">
+      <data key="d2">19464.32923497268</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ciudad Azteca" target="Lagunilla">
+      <data key="d2">23534.069672131147</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ciudad Azteca" target="Tepito">
+      <data key="d2">23284.84836065574</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ciudad Azteca" target="Impulsora">
+      <data key="d2">24125.58879781421</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ciudad Azteca" target="Romero Rubio">
+      <data key="d2">19147.639344262298</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ciudad Deportiva" target="Jamaica">
+      <data key="d2">4534.997267759563</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Ciudad Deportiva" target="Puebla">
+      <data key="d2">11696.060109289618</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Ciudad Deportiva" target="Mixiuhca">
+      <data key="d2">6829.397540983606</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Ciudad Deportiva" target="Patriotismo">
+      <data key="d2">6784.831967213115</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Ciudad Deportiva" target="Tacubaya">
+      <data key="d2">10141.288251366119</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Colegio Militar" target="Panteones">
+      <data key="d2">6837.479508196721</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Normal">
+      <data key="d2">12565.6543715847</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Popotla">
+      <data key="d2">5695.209016393443</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Cuatro Caminos">
+      <data key="d2">34591.692622950824</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Tacuba">
+      <data key="d2">10101.04781420765</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="San Cosme">
+      <data key="d2">9624.091530054644</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Hidalgo">
+      <data key="d2">9827.152322404372</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="General Anaya">
+      <data key="d2">8726.351092896175</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Nativitas">
+      <data key="d2">9922.698087431694</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Viaducto">
+      <data key="d2">9544.695355191256</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="San Antonio Abad">
+      <data key="d2">9977.725409836065</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Ermita">
+      <data key="d2">7364.791666666667</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Portales">
+      <data key="d2">10229.01912568306</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Colegio Militar" target="Xola">
+      <data key="d2">9523.371584699453</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Constituyentes" target="Tacubaya">
+      <data key="d2">10047.890710382513</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Constituyentes" target="Mixcoac">
+      <data key="d2">6881.64480874317</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Constituyentes" target="Tacuba">
+      <data key="d2">7935.689890710383</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Constituyentes" target="San Antonio">
+      <data key="d2">5071.821038251366</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Constituyentes" target="Polanco">
+      <data key="d2">10004.759562841531</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Constituyentes" target="San Pedro de los Pinos">
+      <data key="d2">5273.811475409836</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Constituyentes" target="El Rosario">
+      <data key="d2">8695.581284153006</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Consulado" target="Morelos">
+      <data key="d2">3771.5006830601096</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Consulado" target="Jamaica">
+      <data key="d2">4357.193989071038</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Consulado" target="Santa Anita">
+      <data key="d2">2732.8954918032787</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Consulado" target="Fray Servando">
+      <data key="d2">3606.434426229508</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Consulado" target="Eduardo Molina">
+      <data key="d2">3240.184426229508</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Consulado" target="Misterios">
+      <data key="d2">3489.5204918032787</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Consulado" target="La Raza">
+      <data key="d2">7659.732240437158</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Consulado" target="Hangares">
+      <data key="d2">2541.5150273224044</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Copilco" target="Miguel Ángel de Quevedo">
+      <data key="d2">18861.598360655735</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Viveros/Derechos Humanos">
+      <data key="d2">14739.857923497268</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Indios Verdes">
+      <data key="d2">44027.54918032787</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Zapata">
+      <data key="d2">13593.927595628415</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Universidad">
+      <data key="d2">25203.706284153006</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="La Raza">
+      <data key="d2">14789.938524590163</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Deportivo 18 de Marzo">
+      <data key="d2">13390.55737704918</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Potrero">
+      <data key="d2">13545.752732240437</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Guerrero">
+      <data key="d2">11266.571038251366</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Eugenia">
+      <data key="d2">13487.043715846994</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Tlatelolco">
+      <data key="d2">14646.228142076503</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Hospital General">
+      <data key="d2">14186.696721311475</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Copilco" target="Hidalgo">
+      <data key="d2">14707.594945355191</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Coyuya" target="La Viga">
+      <data key="d2">8693.118852459016</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Coyuya" target="Santa Anita">
+      <data key="d2">8081.159153005465</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Coyuya" target="Iztacalco">
+      <data key="d2">12913.292349726777</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Coyuya" target="Obrera">
+      <data key="d2">10736.976775956284</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Coyuya" target="Doctores">
+      <data key="d2">10774.957650273223</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Coyuya" target="Iztapalapa">
+      <data key="d2">10080.204918032787</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Coyuya" target="Salto del Agua">
+      <data key="d2">12131.93169398907</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Coyuya" target="UAM-I">
+      <data key="d2">14043.083333333332</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Hidalgo">
+      <data key="d2">36959.56079234973</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="General Anaya">
+      <data key="d2">35858.75956284153</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Popotla">
+      <data key="d2">32827.6174863388</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Tacuba">
+      <data key="d2">37233.456284153006</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Ermita">
+      <data key="d2">34497.200136612024</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Panteones">
+      <data key="d2">33969.88797814208</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Xola">
+      <data key="d2">36655.78005464481</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Portales">
+      <data key="d2">37361.42759562842</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Normal">
+      <data key="d2">39698.06284153006</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Viaducto">
+      <data key="d2">36677.10382513661</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Nativitas">
+      <data key="d2">37055.10655737705</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="San Antonio Abad">
+      <data key="d2">37110.133879781424</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="San Cosme">
+      <data key="d2">36756.5</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="La Raza">
+      <data key="d2">10960.326502732241</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Indios Verdes">
+      <data key="d2">40197.93715846995</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Hospital General">
+      <data key="d2">10357.084699453553</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Miguel Ángel de Quevedo">
+      <data key="d2">15031.986338797815</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Viveros/Derechos Humanos">
+      <data key="d2">10910.245901639344</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Tlatelolco">
+      <data key="d2">10816.61612021858</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Potrero">
+      <data key="d2">9716.140710382515</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Universidad">
+      <data key="d2">21374.094262295082</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Guerrero">
+      <data key="d2">7436.959016393443</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Hidalgo">
+      <data key="d2">10877.982923497268</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Zapata">
+      <data key="d2">9764.315573770491</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Eugenia">
+      <data key="d2">9657.43169398907</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="El Rosario">
+      <data key="d2">11911.76980874317</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Lindavista">
+      <data key="d2">8499.806010928962</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Norte 45">
+      <data key="d2">6821.148907103825</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Vallejo">
+      <data key="d2">7665.396174863388</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="Doctores" target="Obrera">
+      <data key="d2">7855.650273224044</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Doctores" target="Salto del Agua">
+      <data key="d2">9250.605191256831</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Doctores" target="La Viga">
+      <data key="d2">5811.792349726777</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Doctores" target="UAM-I">
+      <data key="d2">11161.756830601093</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Doctores" target="Santa Anita">
+      <data key="d2">5199.832650273224</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Doctores" target="Iztacalco">
+      <data key="d2">10031.965846994535</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Doctores" target="Iztapalapa">
+      <data key="d2">7198.878415300547</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Ecatepec" target="Tepito">
+      <data key="d2">14280.859289617485</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ecatepec" target="Guerrero">
+      <data key="d2">10460.340163934427</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ecatepec" target="Impulsora">
+      <data key="d2">15121.599726775956</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ecatepec" target="Lagunilla">
+      <data key="d2">14530.080601092895</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ecatepec" target="Romero Rubio">
+      <data key="d2">10143.650273224044</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Ecatepec" target="Morelos">
+      <data key="d2">10095.476092896175</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Eduardo Molina" target="Hangares">
+      <data key="d2">2821.94262295082</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Eduardo Molina" target="Misterios">
+      <data key="d2">3769.948087431694</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Eduardo Molina" target="La Raza">
+      <data key="d2">7940.1598360655735</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="El Rosario" target="Norte 45">
+      <data key="d2">9171.973360655738</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="El Rosario" target="Vallejo">
+      <data key="d2">10016.2206284153</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="El Rosario" target="Lindavista">
+      <data key="d2">10850.630464480875</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="El Rosario" target="San Antonio">
+      <data key="d2">10638.834016393443</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="El Rosario" target="Tacubaya">
+      <data key="d2">15614.90368852459</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="El Rosario" target="Tacuba">
+      <data key="d2">13502.702868852459</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="El Rosario" target="Mixcoac">
+      <data key="d2">12448.657786885247</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="El Rosario" target="Polanco">
+      <data key="d2">15571.772540983608</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="El Rosario" target="San Pedro de los Pinos">
+      <data key="d2">10840.824453551913</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Ermita" target="Panteones">
+      <data key="d2">6742.9870218579235</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Viaducto">
+      <data key="d2">9450.202868852459</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Portales">
+      <data key="d2">10134.526639344262</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Xola">
+      <data key="d2">9428.879098360656</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="General Anaya">
+      <data key="d2">8631.858606557376</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Nativitas">
+      <data key="d2">9828.205601092897</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Tacuba">
+      <data key="d2">10006.555327868853</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Normal">
+      <data key="d2">12471.161885245903</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="San Antonio Abad">
+      <data key="d2">9883.232923497268</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="San Cosme">
+      <data key="d2">9529.599043715847</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Hidalgo">
+      <data key="d2">9732.659836065573</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Popotla">
+      <data key="d2">5600.716530054645</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Ermita" target="Zapata">
+      <data key="d2">8618.992486338797</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Insurgentes Sur">
+      <data key="d2">12442.88456284153</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Mexicaltzingo">
+      <data key="d2">8884.82718579235</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Mixcoac">
+      <data key="d2">8952.51024590164</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Hospital 20 de Noviembre">
+      <data key="d2">6682.182377049181</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Nopalera">
+      <data key="d2">11040.646857923497</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Tlaltenco">
+      <data key="d2">4692.891393442624</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Olivos">
+      <data key="d2">9038.892759562841</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Ermita" target="Tezonco">
+      <data key="d2">11014.282103825137</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Eugenia" target="Viveros/Derechos Humanos">
+      <data key="d2">11006.732240437159</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Hospital General">
+      <data key="d2">10453.571038251366</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Zapata">
+      <data key="d2">9860.801912568306</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Universidad">
+      <data key="d2">21470.580601092894</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Potrero">
+      <data key="d2">9812.627049180328</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Miguel Ángel de Quevedo">
+      <data key="d2">15128.472677595628</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Hidalgo">
+      <data key="d2">10974.469262295082</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Guerrero">
+      <data key="d2">7533.4453551912575</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="La Raza">
+      <data key="d2">11056.812841530054</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Tlatelolco">
+      <data key="d2">10913.102459016394</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Eugenia" target="Indios Verdes">
+      <data key="d2">40294.42349726776</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Fray Servando" target="Jamaica">
+      <data key="d2">5003.871584699454</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Fray Servando" target="Morelos">
+      <data key="d2">4418.178278688525</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Fray Servando" target="Santa Anita">
+      <data key="d2">3379.573087431694</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="General Anaya" target="Portales">
+      <data key="d2">11496.08606557377</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="Panteones">
+      <data key="d2">8104.546448087432</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="Nativitas">
+      <data key="d2">11189.765027322404</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="Viaducto">
+      <data key="d2">10811.762295081968</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="Tacuba">
+      <data key="d2">11368.114754098362</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="San Antonio Abad">
+      <data key="d2">11244.792349726777</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="San Cosme">
+      <data key="d2">10891.158469945356</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="Xola">
+      <data key="d2">10790.438524590165</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="Normal">
+      <data key="d2">13832.72131147541</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="General Anaya" target="Popotla">
+      <data key="d2">6962.275956284153</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Guelatao" target="Tepalcates">
+      <data key="d2">12116.058743169398</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Guelatao" target="Los Reyes">
+      <data key="d2">11739.760928961749</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Guelatao" target="Santa Marta">
+      <data key="d2">15393.39344262295</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Guelatao" target="La Paz">
+      <data key="d2">19483.948087431694</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Guerrero" target="Universidad">
+      <data key="d2">19250.107923497268</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Tlatelolco">
+      <data key="d2">8692.629781420765</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Hidalgo">
+      <data key="d2">8753.996584699455</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="La Raza">
+      <data key="d2">8836.340163934427</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Potrero">
+      <data key="d2">7592.1543715847</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Miguel Ángel de Quevedo">
+      <data key="d2">12908.0</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Indios Verdes">
+      <data key="d2">38073.95081967213</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Hospital General">
+      <data key="d2">8233.098360655738</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Viveros/Derechos Humanos">
+      <data key="d2">8786.259562841531</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Zapata">
+      <data key="d2">7640.329234972678</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Guerrero" target="Lagunilla">
+      <data key="d2">9382.713114754099</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Guerrero" target="Tepito">
+      <data key="d2">9133.491803278688</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Guerrero" target="Morelos">
+      <data key="d2">4948.108606557377</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Guerrero" target="Romero Rubio">
+      <data key="d2">4996.2827868852455</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Guerrero" target="Impulsora">
+      <data key="d2">9974.232240437159</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Hangares" target="Misterios">
+      <data key="d2">3071.27868852459</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Hangares" target="La Raza">
+      <data key="d2">7241.49043715847</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="Hidalgo" target="Normal">
+      <data key="d2">14933.522540983608</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Popotla">
+      <data key="d2">8063.07718579235</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="San Antonio Abad">
+      <data key="d2">12345.593579234974</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Portales">
+      <data key="d2">12596.887295081968</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="San Cosme">
+      <data key="d2">11991.959699453553</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Xola">
+      <data key="d2">11891.239754098362</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Tacuba">
+      <data key="d2">12468.91598360656</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Viaducto">
+      <data key="d2">11912.563524590165</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Panteones">
+      <data key="d2">9205.34767759563</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Nativitas">
+      <data key="d2">12290.566256830602</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Hidalgo" target="Tlatelolco">
+      <data key="d2">12133.653688524591</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="Hospital General">
+      <data key="d2">11674.122267759563</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="La Raza">
+      <data key="d2">12277.364071038251</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="Zapata">
+      <data key="d2">11081.353142076503</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="Potrero">
+      <data key="d2">11033.178278688525</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="Indios Verdes">
+      <data key="d2">41514.97472677596</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="Viveros/Derechos Humanos">
+      <data key="d2">12227.283469945356</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="Universidad">
+      <data key="d2">22691.131830601094</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hidalgo" target="Miguel Ángel de Quevedo">
+      <data key="d2">16349.023907103825</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Insurgentes Sur">
+      <data key="d2">11854.767759562841</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Mexicaltzingo">
+      <data key="d2">8296.710382513662</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Mixcoac">
+      <data key="d2">8364.393442622952</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Zapata">
+      <data key="d2">8030.875683060109</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Tezonco">
+      <data key="d2">10426.165300546449</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Nopalera">
+      <data key="d2">10452.530054644809</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Tlaltenco">
+      <data key="d2">4104.774590163935</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital 20 de Noviembre" target="Olivos">
+      <data key="d2">8450.775956284153</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Hospital General" target="Zapata">
+      <data key="d2">10560.454918032787</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital General" target="Tlatelolco">
+      <data key="d2">11612.755464480873</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital General" target="La Raza">
+      <data key="d2">11756.465846994535</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital General" target="Indios Verdes">
+      <data key="d2">40994.07650273224</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital General" target="Potrero">
+      <data key="d2">10512.280054644809</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital General" target="Miguel Ángel de Quevedo">
+      <data key="d2">15828.125683060109</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital General" target="Viveros/Derechos Humanos">
+      <data key="d2">11706.38524590164</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Hospital General" target="Universidad">
+      <data key="d2">22170.233606557376</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Impulsora" target="Romero Rubio">
+      <data key="d2">9657.542349726777</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Impulsora" target="Morelos">
+      <data key="d2">9609.368169398907</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Impulsora" target="Tepito">
+      <data key="d2">13794.751366120217</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Impulsora" target="Lagunilla">
+      <data key="d2">14043.972677595628</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Indios Verdes" target="Zapata">
+      <data key="d2">40401.30737704918</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Indios Verdes" target="Potrero">
+      <data key="d2">40353.1325136612</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Indios Verdes" target="Miguel Ángel de Quevedo">
+      <data key="d2">45668.97814207651</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Indios Verdes" target="Tlatelolco">
+      <data key="d2">41453.60792349727</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Indios Verdes" target="Universidad">
+      <data key="d2">52011.08606557377</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Indios Verdes" target="La Raza">
+      <data key="d2">41597.31830601093</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Indios Verdes" target="Viveros/Derechos Humanos">
+      <data key="d2">41547.237704918036</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Insurgentes" target="Observatorio">
+      <data key="d2">32718.50273224044</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Insurgentes" target="Sevilla">
+      <data key="d2">22415.892076502732</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Insurgentes" target="Tacubaya">
+      <data key="d2">22973.378415300547</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Insurgentes" target="Zaragoza">
+      <data key="d2">28160.67349726776</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Insurgentes" target="Salto del Agua">
+      <data key="d2">19793.561475409835</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Insurgentes" target="Merced">
+      <data key="d2">27703.60382513661</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Insurgentes" target="Moctezuma">
+      <data key="d2">20998.953551912567</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Mixcoac">
+      <data key="d2">14125.0956284153</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Zapata">
+      <data key="d2">13791.577868852459</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Mexicaltzingo">
+      <data key="d2">14057.412568306012</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Olivos">
+      <data key="d2">14211.478142076503</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Tlaltenco">
+      <data key="d2">9865.476775956284</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Nopalera">
+      <data key="d2">16213.232240437159</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Tezonco">
+      <data key="d2">16186.867486338797</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Iztacalco" target="Santa Anita">
+      <data key="d2">7338.167349726776</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztacalco" target="UAM-I">
+      <data key="d2">13300.091530054644</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztacalco" target="Iztapalapa">
+      <data key="d2">9337.213114754099</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztacalco" target="La Viga">
+      <data key="d2">7950.127049180328</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztacalco" target="Obrera">
+      <data key="d2">9993.984972677596</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztacalco" target="Salto del Agua">
+      <data key="d2">11388.939890710382</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztapalapa" target="La Viga">
+      <data key="d2">5117.039617486339</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztapalapa" target="UAM-I">
+      <data key="d2">10467.004098360656</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztapalapa" target="Salto del Agua">
+      <data key="d2">8555.852459016394</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztapalapa" target="Obrera">
+      <data key="d2">7160.897540983607</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Iztapalapa" target="Santa Anita">
+      <data key="d2">4505.079918032787</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Jamaica" target="Morelos">
+      <data key="d2">5168.937841530054</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Jamaica" target="Santa Anita">
+      <data key="d2">4130.332650273224</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Jamaica" target="Patriotismo">
+      <data key="d2">8004.465846994535</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Jamaica" target="Tacubaya">
+      <data key="d2">11360.922131147541</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Jamaica" target="Mixiuhca">
+      <data key="d2">8049.031420765027</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Jamaica" target="Puebla">
+      <data key="d2">12915.693989071038</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Lagunilla" target="Tepito">
+      <data key="d2">13203.232240437159</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Lagunilla" target="Morelos">
+      <data key="d2">9017.849043715847</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Lagunilla" target="Romero Rubio">
+      <data key="d2">9066.023224043714</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="La Paz" target="Los Reyes">
+      <data key="d2">20612.061475409835</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="La Paz" target="Santa Marta">
+      <data key="d2">24265.69398907104</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="La Paz" target="Tepalcates">
+      <data key="d2">20988.35928961749</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="La Raza" target="Tlatelolco">
+      <data key="d2">12215.997267759562</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="La Raza" target="Potrero">
+      <data key="d2">11115.521857923497</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="La Raza" target="Universidad">
+      <data key="d2">22773.475409836065</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="La Raza" target="Miguel Ángel de Quevedo">
+      <data key="d2">16431.367486338797</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="La Raza" target="Zapata">
+      <data key="d2">11163.696721311475</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="La Raza" target="Viveros/Derechos Humanos">
+      <data key="d2">12309.627049180328</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="La Raza" target="Misterios">
+      <data key="d2">8189.495901639344</data>
+      <data key="d3">Linea 5</data>
+    </edge>
+    <edge source="La Viga" target="Obrera">
+      <data key="d2">5773.811475409836</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="La Viga" target="Santa Anita">
+      <data key="d2">3117.993852459016</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="La Viga" target="Salto del Agua">
+      <data key="d2">7168.766393442624</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="La Viga" target="UAM-I">
+      <data key="d2">9079.918032786885</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Lindavista" target="Norte 45">
+      <data key="d2">5760.00956284153</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="Lindavista" target="Vallejo">
+      <data key="d2">6604.256830601093</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="Los Reyes" target="Santa Marta">
+      <data key="d2">16521.506830601094</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Los Reyes" target="Tepalcates">
+      <data key="d2">13244.172131147541</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Miguel Ángel de Quevedo" target="Potrero">
+      <data key="d2">15187.18169398907</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Miguel Ángel de Quevedo" target="Viveros/Derechos Humanos">
+      <data key="d2">16381.286885245901</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Miguel Ángel de Quevedo" target="Zapata">
+      <data key="d2">15235.356557377048</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Miguel Ángel de Quevedo" target="Universidad">
+      <data key="d2">26845.135245901638</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Miguel Ángel de Quevedo" target="Tlatelolco">
+      <data key="d2">16287.657103825135</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Merced" target="Moctezuma">
+      <data key="d2">19723.013661202185</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Merced" target="Salto del Agua">
+      <data key="d2">18517.621584699453</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Merced" target="Sevilla">
+      <data key="d2">21139.95218579235</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Merced" target="Observatorio">
+      <data key="d2">31442.562841530056</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Merced" target="Zaragoza">
+      <data key="d2">26884.733606557376</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Merced" target="Tacubaya">
+      <data key="d2">21697.438524590165</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Mexicaltzingo" target="Nopalera">
+      <data key="d2">12655.174863387978</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mexicaltzingo" target="Tezonco">
+      <data key="d2">12628.810109289618</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mexicaltzingo" target="Zapata">
+      <data key="d2">10233.52049180328</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mexicaltzingo" target="Mixcoac">
+      <data key="d2">10567.03825136612</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mexicaltzingo" target="Olivos">
+      <data key="d2">10653.420765027324</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mexicaltzingo" target="Tlaltenco">
+      <data key="d2">6307.419398907105</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mixcoac" target="San Pedro de los Pinos">
+      <data key="d2">9026.887978142076</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Mixcoac" target="San Antonio">
+      <data key="d2">8824.897540983606</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Mixcoac" target="Tacubaya">
+      <data key="d2">13800.967213114753</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Mixcoac" target="Tacuba">
+      <data key="d2">11688.766393442624</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Mixcoac" target="Polanco">
+      <data key="d2">13757.83606557377</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Mixcoac" target="Nopalera">
+      <data key="d2">12722.857923497268</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mixcoac" target="Tlaltenco">
+      <data key="d2">6375.102459016394</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mixcoac" target="Zapata">
+      <data key="d2">10301.203551912567</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mixcoac" target="Tezonco">
+      <data key="d2">12696.493169398907</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mixcoac" target="Olivos">
+      <data key="d2">10721.103825136612</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Mixiuhca" target="Puebla">
+      <data key="d2">15210.094262295082</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Mixiuhca" target="Patriotismo">
+      <data key="d2">10298.86612021858</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Mixiuhca" target="Tacubaya">
+      <data key="d2">13655.322404371584</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Moctezuma" target="Salto del Agua">
+      <data key="d2">11812.97131147541</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Moctezuma" target="Zaragoza">
+      <data key="d2">20180.083333333332</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Moctezuma" target="Observatorio">
+      <data key="d2">24737.912568306012</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Moctezuma" target="Sevilla">
+      <data key="d2">14435.301912568306</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Moctezuma" target="Tacubaya">
+      <data key="d2">14992.78825136612</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Morelos" target="Santa Anita">
+      <data key="d2">3544.639344262295</data>
+      <data key="d3">Linea 4</data>
+    </edge>
+    <edge source="Morelos" target="Tepito">
+      <data key="d2">8768.627732240437</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Morelos" target="Romero Rubio">
+      <data key="d2">4631.418715846994</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Nativitas" target="Portales">
+      <data key="d2">12692.43306010929</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="Xola">
+      <data key="d2">11986.785519125682</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="Panteones">
+      <data key="d2">9300.89344262295</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="Viaducto">
+      <data key="d2">12008.109289617485</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="Popotla">
+      <data key="d2">8158.622950819672</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="San Antonio Abad">
+      <data key="d2">12441.139344262294</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="Normal">
+      <data key="d2">15029.06830601093</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="Tacuba">
+      <data key="d2">12564.46174863388</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nativitas" target="San Cosme">
+      <data key="d2">12087.505464480873</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Nopalera" target="Tezonco">
+      <data key="d2">14784.629781420765</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Nopalera" target="Olivos">
+      <data key="d2">12809.24043715847</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Nopalera" target="Tlaltenco">
+      <data key="d2">8463.239071038251</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Nopalera" target="Zapata">
+      <data key="d2">12389.340163934427</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Normal" target="Popotla">
+      <data key="d2">10801.579234972678</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Normal" target="San Cosme">
+      <data key="d2">14730.46174863388</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Normal" target="Panteones">
+      <data key="d2">11943.849726775956</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Normal" target="Tacuba">
+      <data key="d2">15207.418032786885</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Normal" target="Portales">
+      <data key="d2">15335.389344262296</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Normal" target="San Antonio Abad">
+      <data key="d2">15084.0956284153</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Normal" target="Viaducto">
+      <data key="d2">14651.065573770491</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Normal" target="Xola">
+      <data key="d2">14629.741803278688</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Norte 45" target="Vallejo">
+      <data key="d2">4925.599726775956</data>
+      <data key="d3">Linea 6</data>
+    </edge>
+    <edge source="Obrera" target="Salto del Agua">
+      <data key="d2">9212.624316939891</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Obrera" target="Santa Anita">
+      <data key="d2">5161.851775956284</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Obrera" target="UAM-I">
+      <data key="d2">11123.775956284153</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Observatorio" target="Tacubaya">
+      <data key="d2">26712.337431693988</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Observatorio" target="Zaragoza">
+      <data key="d2">31899.632513661203</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Observatorio" target="Sevilla">
+      <data key="d2">26154.851092896177</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Observatorio" target="Salto del Agua">
+      <data key="d2">23532.52049180328</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Olivos" target="Tlaltenco">
+      <data key="d2">6461.484972677596</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Olivos" target="Tezonco">
+      <data key="d2">12782.875683060109</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Olivos" target="Zapata">
+      <data key="d2">10387.58606557377</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Panteones" target="Portales">
+      <data key="d2">9607.214480874318</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Panteones" target="Tacuba">
+      <data key="d2">9479.243169398907</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Panteones" target="Popotla">
+      <data key="d2">5073.404371584699</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Panteones" target="Viaducto">
+      <data key="d2">8922.890710382513</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Panteones" target="San Cosme">
+      <data key="d2">9002.286885245901</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Panteones" target="Xola">
+      <data key="d2">8901.56693989071</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Panteones" target="San Antonio Abad">
+      <data key="d2">9355.920765027322</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Patriotismo" target="Tacubaya">
+      <data key="d2">13610.75683060109</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Patriotismo" target="Puebla">
+      <data key="d2">15165.528688524591</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Polanco" target="San Pedro de los Pinos">
+      <data key="d2">12150.002732240438</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Polanco" target="Tacuba">
+      <data key="d2">14811.881147540986</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Polanco" target="Tacubaya">
+      <data key="d2">16924.081967213115</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Polanco" target="San Antonio">
+      <data key="d2">11948.012295081968</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Popotla" target="Tacuba">
+      <data key="d2">8336.97267759563</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Popotla" target="San Cosme">
+      <data key="d2">7860.016393442623</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Popotla" target="Xola">
+      <data key="d2">7759.296448087432</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Popotla" target="Portales">
+      <data key="d2">8464.943989071038</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Popotla" target="San Antonio Abad">
+      <data key="d2">8213.650273224044</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Portales" target="San Antonio Abad">
+      <data key="d2">12747.460382513662</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Portales" target="Viaducto">
+      <data key="d2">12314.430327868853</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Portales" target="Xola">
+      <data key="d2">12293.10655737705</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Portales" target="Tacuba">
+      <data key="d2">12870.782786885247</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Portales" target="San Cosme">
+      <data key="d2">12393.826502732241</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Potrero" target="Tlatelolco">
+      <data key="d2">10971.811475409835</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Potrero" target="Viveros/Derechos Humanos">
+      <data key="d2">11065.441256830602</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Potrero" target="Universidad">
+      <data key="d2">21529.289617486338</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Potrero" target="Zapata">
+      <data key="d2">9919.510928961749</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Puebla" target="Tacubaya">
+      <data key="d2">18521.984972677594</data>
+      <data key="d3">Linea 9</data>
+    </edge>
+    <edge source="Romero Rubio" target="Tepito">
+      <data key="d2">8816.801912568306</data>
+      <data key="d3">Linea B</data>
+    </edge>
+    <edge source="Salto del Agua" target="Sevilla">
+      <data key="d2">13229.909836065573</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Salto del Agua" target="Tacubaya">
+      <data key="d2">13787.396174863388</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Salto del Agua" target="Zaragoza">
+      <data key="d2">18974.6912568306</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Salto del Agua" target="UAM-I">
+      <data key="d2">12518.73087431694</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Salto del Agua" target="Santa Anita">
+      <data key="d2">6556.806693989071</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="San Antonio" target="Tacubaya">
+      <data key="d2">11991.14344262295</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="San Antonio" target="San Pedro de los Pinos">
+      <data key="d2">7217.064207650274</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="San Antonio" target="Tacuba">
+      <data key="d2">9878.94262295082</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="San Antonio Abad" target="Xola">
+      <data key="d2">12041.812841530054</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="San Antonio Abad" target="San Cosme">
+      <data key="d2">12142.532786885246</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="San Antonio Abad" target="Viaducto">
+      <data key="d2">12063.136612021857</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="San Antonio Abad" target="Tacuba">
+      <data key="d2">12619.489071038251</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="San Cosme" target="Tacuba">
+      <data key="d2">12265.855191256831</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="San Cosme" target="Viaducto">
+      <data key="d2">11709.502732240437</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="San Cosme" target="Xola">
+      <data key="d2">11688.178961748634</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="San Pedro de los Pinos" target="Tacuba">
+      <data key="d2">10080.93306010929</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="San Pedro de los Pinos" target="Tacubaya">
+      <data key="d2">12193.13387978142</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Santa Anita" target="UAM-I">
+      <data key="d2">8467.958333333332</data>
+      <data key="d3">Linea 8</data>
+    </edge>
+    <edge source="Santa Marta" target="Tepalcates">
+      <data key="d2">16897.80464480874</data>
+      <data key="d3">Linea A</data>
+    </edge>
+    <edge source="Sevilla" target="Tacubaya">
+      <data key="d2">16409.726775956282</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Sevilla" target="Zaragoza">
+      <data key="d2">21597.021857923497</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Tacuba" target="Viaducto">
+      <data key="d2">12186.459016393443</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Tacuba" target="Xola">
+      <data key="d2">12165.13524590164</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Tacuba" target="Tacubaya">
+      <data key="d2">14855.012295081968</data>
+      <data key="d3">Linea 7</data>
+    </edge>
+    <edge source="Tacubaya" target="Zaragoza">
+      <data key="d2">22154.508196721312</data>
+      <data key="d3">Linea 1</data>
+    </edge>
+    <edge source="Tezonco" target="Tlaltenco">
+      <data key="d2">8436.874316939891</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Tezonco" target="Zapata">
+      <data key="d2">12362.975409836065</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Tlaltenco" target="Zapata">
+      <data key="d2">6041.584699453551</data>
+      <data key="d3">Linea 12</data>
+    </edge>
+    <edge source="Tlatelolco" target="Universidad">
+      <data key="d2">22629.765027322403</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Tlatelolco" target="Viveros/Derechos Humanos">
+      <data key="d2">12165.916666666668</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Tlatelolco" target="Zapata">
+      <data key="d2">11019.986338797815</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Universidad" target="Viveros/Derechos Humanos">
+      <data key="d2">22723.39480874317</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Universidad" target="Zapata">
+      <data key="d2">21577.464480874318</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+    <edge source="Viaducto" target="Xola">
+      <data key="d2">11608.782786885246</data>
+      <data key="d3">Linea 2</data>
+    </edge>
+    <edge source="Viveros/Derechos Humanos" target="Zapata">
+      <data key="d2">11113.61612021858</data>
+      <data key="d3">Linea 3</data>
+    </edge>
+  </graph>
+</graphml>
