@@ -266,7 +266,7 @@ pdflatex reporte_final.tex
 
 ---
 
-## ✍️ Autor
+## Autor
 
 **Proyecto Final de la Materia Analisis de Redes Complejas**  
 Análisis topológico del Metro CDMX y COVID-19 | 2020-2021
