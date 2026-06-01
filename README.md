@@ -9,9 +9,7 @@ Este proyecto investiga cómo la topología de la red del Metro CDMX influye en 
 - **162 estaciones** y **183 conexiones** ponderadas por afluencia diaria
 - **Métricas de red compleja**: betweenness, closeness, clustering, grado ponderado
 - **Simulaciones SIR** en la red real vs. tres redes sintéticas de referencia
-- **Validación con Machine Learning** (Random Forest con Leave-One-Out CV)
-
-**Hallazgo clave:** La red real genera un pico de infección del 47.84%, significativamente menor que redes aleatorias (66-78%), sugiriendo que la geometría física del Metro amortigua la propagación epidémica.
+- **Validación con Machine Learning** (Random Forest)
 
 ---
 
