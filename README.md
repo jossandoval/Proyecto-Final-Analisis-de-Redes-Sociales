@@ -2,7 +2,7 @@
 
 > Un análisis integrado de la red del Sistema de Transporte Colectivo Metro de la Ciudad de México y su relación con la propagación de COVID-19 durante 2020-2021, utilizando teoría de redes complejas, simulaciones SIR y aprendizaje automático.
 
-## 📋 Resumen Ejecutivo
+## Resumen Ejecutivo
 
 Este proyecto investiga cómo la topología de la red del Metro CDMX influye en la propagación de COVID-19 entre alcaldías. A través de:
 
@@ -15,7 +15,7 @@ Este proyecto investiga cómo la topología de la red del Metro CDMX influye en 
 
 ---
 
-## 🏗️ Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 .
@@ -52,7 +52,7 @@ Este proyecto investiga cómo la topología de la red del Metro CDMX influye en 
 
 ---
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ### Requisitos
 
@@ -77,7 +77,7 @@ pip install pandas numpy networkx matplotlib seaborn scipy scikit-learn
    ```
    Genera 13 archivos en `resultados/` incluyendo métricas, simulaciones y visualizaciones.
 
-## 📊 Datos de Entrada
+## Datos de Entrada
 
 ### 1. COVID-19
 **Fuente:** [Dirección General de Epidemiología, Secretaría de Salud de México](https://www.gob.mx/salud/documentos/datos-abiertos-bases-historicas-direccion-general-de-epidemiologia)
@@ -97,7 +97,7 @@ pip install pandas numpy networkx matplotlib seaborn scipy scikit-learn
 
 ---
 
-## 🔬 Metodología
+## Metodología
 
 ### Construcción de la Red
 
@@ -143,7 +143,7 @@ Random Forest con Leave-One-Out CV (LOO-CV):
 
 ---
 
-## 📈 Resultados Principales
+## Resultados Principales
 
 ### 1. Estructura de la Red
 La red exhibe propiedades **pequeño-mundo**:
@@ -186,7 +186,7 @@ La red exhibe propiedades **pequeño-mundo**:
 
 ---
 
-## 📁 Archivos de Salida Clave
+## Archivos de Salida Clave
 
 ### Datos
 
@@ -213,9 +213,9 @@ Todas en formato PNG 300 dpi:
 
 ---
 
-## 📖 Reporte
+## Reporte
 
-El manuscrito completo está en **`reporte/reporte_final.tex`** listo para Overleaf o compilación local con `pdflatex`.
+El manuscrito completo está en ** `reporte/PYARS_ErickFabian.pdf`** listo tambien para compilación en Overleaf de la carpeta `reporte/`.
 
 **Secciones incluidas:**
 - Introducción y estado del arte
@@ -234,7 +234,7 @@ pdflatex reporte_final.tex
 
 ---
 
-## 🎯 Implicaciones para Salud Pública
+## Implicaciones para Salud Pública
 
 1. **Identificación de nodos críticos:** Estaciones con alto betweenness y grado ponderado son puntos clave para intervenciones focalizadas.
 
@@ -256,7 +256,7 @@ pdflatex reporte_final.tex
 
 ---
 
-## 📚 Referencias
+## Referencias
 
 1. Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of small-world networks. *Nature*, 393(6684), 440–442.
 
@@ -268,20 +268,14 @@ pdflatex reporte_final.tex
 
 ---
 
-## 📝 Licencia
-
-Este proyecto es de dominio académico. Datos públicos utilizados bajo términos de acceso abierto.
-
----
-
 ## ✍️ Autor
 
-**Proyecto de Análisis de Redes Complejas**  
+**Proyecto Final de la Materia Analisis de Redes Complejas**  
 Análisis topológico del Metro CDMX y COVID-19 | 2020-2021
 
 ---
 
-## 📞 Contacto
+## Contacto
 
 Para preguntas o sugerencias sobre el análisis, datos o metodología, favor de consultar la documentación en `reporte/PYARS_ErickFabian.pdf` o abrir un issue en este repositorio.
 
