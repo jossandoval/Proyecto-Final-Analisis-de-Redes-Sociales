@@ -24,7 +24,6 @@ Este proyecto investiga cómo la topología de la red del Metro CDMX influye en 
 ├── filtrar_metro.py                       # Filtrado de datos de afluencia del Metro
 ├── analysis.py                            # Pipeline principal de análisis
 ├── run_analysis.py                        # Ejecutor del análisis completo
-├── write_report.py                        # Generador del reporte LaTeX
 │
 ├── reporte/
 │   ├── reporte_final.tex                  # Manuscrito principal en LaTeX
@@ -48,7 +47,7 @@ Este proyecto investiga cómo la topología de la red del Metro CDMX influye en 
 ├── COVID19MEXICO2020_2021_CDMX.csv        # Datos COVID filtrados (CDMX)
 ├── afluenciastc_2020_2021.csv            # Datos de afluencia del Metro filtrados
 ├── estaciones_coords.csv                 # Coordenadas geográficas de estaciones
-└── proyecto_redes.ipynb                  # Notebook interactivo (exploratorio)
+└── proyecto_redes.ipynb                  # Notebook de analisis exploratorio
 ```
 
 ---
