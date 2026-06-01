@@ -6,7 +6,7 @@
 
 Este proyecto investiga cómo la topología de la red del Metro CDMX influye en la propagación de COVID-19 entre alcaldías. A través de:
 
-- **162 estaciones** y **684 conexiones** ponderadas por afluencia diaria
+- **162 estaciones** y **183 conexiones** ponderadas por afluencia diaria
 - **Métricas de red compleja**: betweenness, closeness, clustering, grado ponderado
 - **Simulaciones SIR** en la red real vs. tres redes sintéticas de referencia
 - **Validación con Machine Learning** (Random Forest con Leave-One-Out CV)
@@ -77,13 +77,6 @@ pip install pandas numpy networkx matplotlib seaborn scipy scikit-learn
    python analysis.py
    ```
    Genera 13 archivos en `resultados/` incluyendo métricas, simulaciones y visualizaciones.
-
-3. **Generar reporte LaTeX (opcional):**
-   ```bash
-   python write_report.py
-   ```
-
----
 
 ## 📊 Datos de Entrada
 
@@ -291,7 +284,7 @@ Análisis topológico del Metro CDMX y COVID-19 | 2020-2021
 
 ## 📞 Contacto
 
-Para preguntas o sugerencias sobre el análisis, datos o metodología, favor de consultar la documentación en `reporte/reporte_final.tex` o abrir un issue en este repositorio.
+Para preguntas o sugerencias sobre el análisis, datos o metodología, favor de consultar la documentación en `reporte/PYARS_ErickFabian.pdf` o abrir un issue en este repositorio.
 
 ---
 
